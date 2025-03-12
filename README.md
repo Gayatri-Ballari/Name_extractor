@@ -1,7 +1,7 @@
-# Company name extraction using Groq model
+# Named entity extraction using Groq model
 
 ## Overview
-This project evaluates Company Name extraction i.e Named Entity Recognition(NER) model predictions against ground truth labels with the help of the prompt we have written. It utilizes OpenAI for Groq model invocation and entity extraction. The evaluation includes precision, recall, F1-score matrix, Fuzzy score calculations, along with visualization of metrics.
+This project evaluates Named Entity Recognition(NER) model predictions against ground truth labels with the help of the prompt we have written. It utilizes OpenAI for Groq model invocation and entity extraction. The evaluation includes precision, recall, F1-score matrix, Fuzzy score calculations, along with visualization of metrics.
 
 ## Features
 - Company name extractions(NER model)
